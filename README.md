@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Organization](https://img.shields.io/badge/Organization-Zhiying%20Club-orange.svg)](https://github.com/yulinxiyu)
 
-**ZhiyingAI-Engine** 是由**赣州市第一中学“智影社”**发起、**赣州谱空科技有限公司**提供技术支持的开源 AI 视频处理框架。本项目旨在通过高性能、模块化的 Python 架构，为青少年开发者提供一个简单而强大的 AI 视频创作工具集。
+**ZhiyingAI-Engine** 是由**赣州市第一中学“智影社”**发起开源 AI 视频处理框架。本项目旨在通过高性能、模块化的 Python 架构，为青少年开发者提供一个简单而强大的 AI 视频创作工具集。
 
 > **ZhiyingAI-Engine** is a high-performance, modular AI video processing framework initiated by the **Zhiying Club (Ganzhou No.1 High School)** and supported by **Ganzhou Pukong Technology Co., Ltd.**
 
