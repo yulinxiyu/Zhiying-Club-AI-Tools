@@ -69,7 +69,7 @@ manager.start()
 
 我们欢迎任何形式的贡献！如果你是**智影社**的成员或者对 AI 视频技术感兴趣，欢迎提交 Pull Request。
 
-* **Project Lead:** Yu Linxi (郁林熙)
+* **Project Lead:** Yu Linxi
 * **Organization:** Ganzhou No.1 High School - Zhiying Club
 * **Enterprise Support:** Ganzhou Pukong Technology Co., Ltd
 
